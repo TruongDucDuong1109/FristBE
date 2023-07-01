@@ -4,7 +4,6 @@ commands that can be run:
 -s == --size
 -m == --modify
 
-fist commands :  cd bin
 node index.js ./folder --type "text"
 node index.js ./folder --type "text,image"
 node index.js ./folder --type "text" -n
